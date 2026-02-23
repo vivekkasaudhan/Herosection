@@ -5,6 +5,9 @@ A premium scroll-based hero animation built using **React, Tailwind CSS, and GSA
 This project demonstrates advanced scroll-synchronized animation where the car movement, background reveal, and metrics display are all controlled by scroll progress.
 
 ---
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)]([https://your-render-link.onrender.com](https://herosection.onrender.com/))
 
 ## ✨ Features
 
